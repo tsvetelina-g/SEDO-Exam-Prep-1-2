@@ -16,6 +16,7 @@ namespace SoftUniBazar.Tests
     [TestFixture]
     public class AdControllerIntegrationTests
     {
+        
         private BazarDbContext _dbContext;
         private AdController _controller;
 
